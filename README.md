@@ -24,10 +24,10 @@ This repository contains exploratory data analysis (EDA) and feature engineering
 
 ## Usage
 
-1. Clone the repository:
-2. Navigate to the repository directory:
-
+1. Clone the repository: git clone https://github.com/NarasimhaSwamy202/DataInsights-EDA-FeatureEngineering.git
+2. Navigate to the repository directory: cd DataInsights-EDA-FeatureEngineering
 3. Open and run the Jupyter notebooks to explore the analysis and findings.
+
 
 ## Contribution
 
